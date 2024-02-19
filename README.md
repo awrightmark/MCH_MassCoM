@@ -14,3 +14,5 @@ Step 2: Adjust the file directory path name in this script to the top-level fold
 Step 3: Run the script.
 
 The output for whole-specimen dimensions is stored in the "output" folder with the name "Specimen_properties.txt", and the dimensions for each individual segment are stored in "Segment_properties.txt".
+
+The script was adapted from a pipeline originally created by Dr. Rob Brocklehurst.
