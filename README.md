@@ -3,7 +3,7 @@ Brief Description: This script estimates mass and center of mass (CoM) for digit
 
 
 
-This Python script takes body segments that have already been separated onto individual surface mesh filse, wraps each in its own convex hull, and computes the mass and center of mass for each segment as well as for the whole body.
+This Python script takes body segments that have already been separated onto individual surface mesh files, wraps each in its own convex hull, and computes the mass and center of mass for each segment as well as for the whole body.
 
 Requirements:
 -Python (implemented here with Spyder)
